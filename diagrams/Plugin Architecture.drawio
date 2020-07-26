@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2020-07-26T06:49:54.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="S7vmpzDGmGmQWTQH4xb3" version="13.4.0" type="github"><diagram id="ReSxEA5EmlHURLrDiv2-" name="Page-1">nZTNcpswEICfhqNnQGCPczR20l6S6SRO2ltHhgXUEUiVZRv69F0sARaYmbQXkL790e5qV164LesvisriWaTAPeKntRfuPEIeohV+W9AYsIxCA3LFUoOCAbyxP2Chb+mJpXB0FLUQXDPpwkRUFSTaYVQpcXHVMsHdUyXNYQLeEsqn9DtLdWHoeukP/CuwvOhODnwrKWmnbMGxoKm43KDw0Qu3SghtVmW9Bd7WrquLsXuakfaBKaj0Zww2ry/yJf/5vHzdwzv/8SHf/Y+F9XKm/GQT9siKo79YtiHrxtZh9fvUxhmXVOWs8sINSn1Z4xfhNduWL7SQRra6kWmo9YJyllu7BAMGNfjEVW7/15MPHdjBuWOY1mGsh0yOWaHG5L/y4JBpI1y3wmmkre5Ga8UOJw2BUd03Evoc1Iwumeq6eRAnXmLrtjMRxeIMKuPXNsoYXi9mrEv87TCGOFVC7jEBaPvB772hCV7BbNcEfS/iDIMoQasGVaxB2LWvnd+o21+GaQjWlhU3k/BgGbUDmPeuhx7FhW3Tf2hZcqdlR0XDUZPtMhGlFNU10/gXaN10I7zuQD+70WfLNT9GszUMJhUjdwrWMQWcanZ23597VbTnfRMMY+sPW5DIvTDXgciyI/bH+BL6oO/dC26HZ8qoD299+PgX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-26T06:59:33.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="KQi7qSsyyPv9q539wPWW" version="13.4.0" type="github">
+  <diagram id="ReSxEA5EmlHURLrDiv2-" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-3" target="_mCMshLL5PTBhl_VOLYM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-3" value="Dev.WebApiFramework" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-5" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-5" value="Dev.WebApi" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=180;entryDy=37;entryPerimeter=0;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-8" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-8" value="«Plugin»&lt;br&gt;&lt;b&gt;Misc&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_mCMshLL5PTBhl_VOLYM-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-10" value="Dev&lt;br&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-13" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="385" />
+              <mxPoint x="550" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-13" value="«Plugin»&lt;br&gt;&lt;b&gt;Data.EfCore&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="360" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-14" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_mCMshLL5PTBhl_VOLYM-13">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-18" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-18" value="«Plugin»&lt;br&gt;&lt;b&gt;Data.Dapper&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_mCMshLL5PTBhl_VOLYM-18">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-24" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-24" value="«Plugin»&lt;br&gt;&lt;b&gt;Auth.Multi&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-25" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_mCMshLL5PTBhl_VOLYM-24">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=180;entryDy=25.5;entryPerimeter=0;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-27" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-27" value="«Plugin»&lt;br&gt;&lt;b&gt;App.Blog&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="90" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-28" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_mCMshLL5PTBhl_VOLYM-27">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=180;entryDy=37;entryPerimeter=0;" edge="1" parent="1" source="_mCMshLL5PTBhl_VOLYM-29" target="_mCMshLL5PTBhl_VOLYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-29" value="«Plugin»&lt;br&gt;&lt;b&gt;App.Shop&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mCMshLL5PTBhl_VOLYM-30" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_mCMshLL5PTBhl_VOLYM-29">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
